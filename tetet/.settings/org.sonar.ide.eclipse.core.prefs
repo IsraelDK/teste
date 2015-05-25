@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.host.url\=http\://10.197.67.93\:9001\r\nsonar.jdbc.password\=SFWSONAR\r\nsonar.jdbc.username\=SFWSONAR\r\nsonar.jdbc.url\=jdbc\:oracle\:thin\:@10.197.67.77\:1152\:DEV11UTF\r\nsonar.jdbc.driverClassName\=oracle.jdbc.driver.OracleDriver
+projectKey=testet\:tetet
+serverUrl=http\://10.197.67.93\:9001
+version=2
